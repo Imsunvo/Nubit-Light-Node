@@ -10,7 +10,7 @@
 ### ③ 备份轻节点信息，这将包括地址、助记词、公钥等
 ![3](https://github.com/Imsunvo/Nubit-Light-Node/assets/81614012/d850da18-8586-4215-a3cf-b98751735354)
 
-### ④ 运行几分钟后，将轻节点公钥粘贴用于完成任务
+### ④ 运行几分钟后，将轻节点公钥粘贴用于完成任务：https://alpha.nubit.org
 ![4](https://github.com/Imsunvo/Nubit-Light-Node/assets/81614012/ec8d312f-829b-4cdb-81b3-7976ba8a4263)
 
 ### ⑤ 完成
